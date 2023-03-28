@@ -27,4 +27,4 @@ contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estandar en HTML5y CSS3.
 
 ## 4. Link a demo 
-Aqui puedes visualizar mi proyecto terminado: [clonchrome](#)
+Aqui puedes visualizar mi proyecto terminado: [clonchrome](https://benevolent-souffle-b7c2b3.netlify.app/)
